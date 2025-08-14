@@ -10,27 +10,27 @@ bar chart, где отображается посещаемость итогов
 table, где отображаются студенты с количеством присутствий/пропусков.
 big number, который отображает количество отметок по текущей дате.
 
-![alt text](refs/image_9.png)
+![alt text](/refs/image_9.png)
 
-![alt text](refs/12.png)
+![alt text](/refs/12.png)
 
-![alt text](refs/image_13.png)
+![alt text](/refs/image_13.png)
 
 Также были добавлены фильтры, чтобы можно было выбрать определенную группу
 
-![alt text](refs/image_10.png)
+![alt text](/refs/image_10.png)
 
-![alt text](<refs/image copy_11.png>)
+![alt text](</refs/image copy_11.png>)
 
 2. Отслеживание посещаемости студентов по преподавателям
 
 bar chart, где отображается посещаемость итоговое количество отметок.
 table, где отображаются преподаватели, их кафедра, а также процент присутствий/пропусков.
 
-![alt text](refs/image_14.png)
+![alt text](/refs/image_14.png)
 
-![alt text](refs/image_15.png)
+![alt text](/refs/image_15.png)
 
-![alt text](refs/image_16.png)
+![alt text](/refs/image_16.png)
 
-![alt text](refs/image_17.png)
+![alt text](/refs/image_17.png)
