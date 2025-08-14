@@ -75,4 +75,4 @@ Spark извлекает из записи уникальные ID студен�
 
 Ознакомиться с дашбордами можно 
 
-### 📌 Визуализацию данных можно посмотреть [здесь](https://github.com/Kinnerul/gasu_enricher/blob/main/dependence/superset/visualization.md)
+### 📌 Визуализацию данных можно посмотреть [здесь](https://github.com/Kinnerul/gasu_enricher/blob/main/dependence/superset/visulization.md)
